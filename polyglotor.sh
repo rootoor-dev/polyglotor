@@ -13,6 +13,10 @@ Requirements:
 1) System Requirements to be found at "https://github.com/soimort/translate-shell"
 2) Install translate-shell (found at "https://github.com/soimort/translate-shell"  or "https://pkgs.org/download/translate-shell")
 
+-----------------------------------------------------------------
+WARNING > change the version language "fr" by whatever you like !
+-----------------------------------------------------------------
+
 RUN SCRIPT
 ==========
 
